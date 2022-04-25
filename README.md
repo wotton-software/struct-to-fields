@@ -6,6 +6,11 @@ A typical use case might be when you're performing structured logging and need t
 ## Installation
 `go get github.com/mikey-wotton/struct-to-fields`
 
+## Examples
+
+* [Logging Use case](https://github.com/wotton-software/struct-to-fields/blob/604c374fa41ee3f97c77f9669a0d24c9ac998296/cmd/logrus-example/main.go#L62)
+* [Example output](https://github.com/wotton-software/struct-to-fields/blob/604c374fa41ee3f97c77f9669a0d24c9ac998296/pkg/stf/integration_test.go#L75)
+
 ## Additional
 ### Naming conventions
 The naming convention of the extractor uses a hierarchy.
