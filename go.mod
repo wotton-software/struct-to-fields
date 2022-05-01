@@ -1,4 +1,4 @@
-module github.com/mikey-wotton/struct-to-fields
+module github.com/wotton-software/struct-to-fields
 
 go 1.14
 
