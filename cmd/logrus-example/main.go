@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mikey-wotton/struct-to-fields/pkg/stf"
 	log "github.com/sirupsen/logrus"
+	"github.com/wotton-software/struct-to-fields/pkg/stf"
 )
 
 type Order struct {

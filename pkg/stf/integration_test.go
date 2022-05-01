@@ -1,8 +1,8 @@
 package stf_test
 
 import (
-	"github.com/mikey-wotton/struct-to-fields/pkg/stf"
 	"github.com/stretchr/testify/assert"
+	"github.com/wotton-software/struct-to-fields/pkg/stf"
 	"testing"
 )
 
