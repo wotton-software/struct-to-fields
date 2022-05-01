@@ -4,7 +4,7 @@ A typical use case might be when you're performing structured logging and need t
 
 
 ## Installation
-`go get github.com/wotton-software/struct-to-fields`
+`go get github.com/wotton-software/struct-to-fields/pkg/stf@latest`
 
 ## Examples
 
